@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Yurii",
+    "company": "123 Designs",
+    "phone": "222-333-444"
+  },
+  {
+    "id": 2,
+    "name": "Taras",
+    "company": "123 Designs",
+    "phone": "222-555-444"
+  },
+  {
+    "id": 3,
+    "name": "Igor",
+    "company": "123 Designs",
+    "phone": "1111-333-444"
+  },
+  {
+    "id": 1,
+    "name": "Ira",
+    "company": "123 Designs",
+    "phone": "222-333-5555"
+  },
+  {
+    "id": 1,
+    "name": "Olga",
+    "company": "123 Designs",
+    "phone": "222-333-777"
+  }
+]
